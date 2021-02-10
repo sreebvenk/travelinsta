@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "clientpanel-b7976": {
+      "hosting": {
+        "instagramApp": [
+          "clientpanel-b7976"
+        ]
+      }
+    }
+  }
+}
